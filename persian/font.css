@@ -1,0 +1,34 @@
+:root {
+  --font: "IranYekan WebFonts", "Shabnam WebFonts", "Vazir WebFonts",
+    "Sahel WebFonts", "Estedad WebFonts", sans-serif;
+}
+
+/*Firefox*/
+
+.videoSubtitles {
+  font-family: var(--font) !important;
+  font-weight: 700 !important;
+  text-shadow: 0px 0px 8px rgba(0, 0, 0, 1) !important;
+}
+
+/*Chrome, Edge Chromium & Saffari*/
+
+video::-webkit-media-text-track-display {
+  font-family: var(--font) !important;
+  font-weight: 700 !important;
+  text-shadow: rgba(0, 0, 0, 1) 0em 0em 0.2em !important;
+}
+
+/*backup for subtitles*/
+
+video::-webkit-media-text-track-container {
+  font-family: var(--font) !important;
+  font-weight: 700 !important;
+  text-shadow: rgba(0, 0, 0, 1) 0em 0em 0.2em !important;
+}
+
+video:cue {
+  font-family: var(--font) !important;
+  font-weight: 700 !important;
+  text-shadow: rgba(0, 0, 0, 1) 0em 0em 0.2em !important;
+}
