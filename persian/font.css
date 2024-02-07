@@ -7,7 +7,7 @@
 
 .videoSubtitles {
   font-family: var(--font) !important;
-  direction: rtl !important;
+  direction: ltr !important;
   font-weight: 400 !important;
   text-shadow: 0px 0px 8px rgba(0, 0, 0, 1) !important;
 }
