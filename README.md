@@ -33,5 +33,5 @@
 ## Usage
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/moalgholi/jellyfin-subtitle@main/persian/font.css");
+@import url("https://cdn.jsdelivr.net/gh/moalgholi/jellyfin-subtitle@latest/persian/font.css");
 ```
