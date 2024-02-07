@@ -1,4 +1,4 @@
-# jellyfin-subtitle
+# Jellyfin Subtitle
 
 ## IRANYekan
 
