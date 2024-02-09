@@ -3,6 +3,14 @@
     "Sahel WebFonts", "Estedad WebFonts", sans-serif;
 }
 
+/* @import url("https://cdn.jsdelivr.net/npm/jellyskin@latest/dist/main.css"); */
+
+#indexPage .section0 .itemsContainer {
+    flex-wrap: nowrap;
+}
+
+/* @import url("https://cdn.jsdelivr.net/npm/jellyskin@latest/dist/main.css"); */
+
 /*Firefox*/
 
 .videoSubtitles {
