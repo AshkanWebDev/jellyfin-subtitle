@@ -8,6 +8,9 @@
 #indexPage .section0 .itemsContainer {
     flex-wrap: nowrap;
 }
+.itemsViewSettingsContainer>.button-flat {
+  margin: 0 10px;
+}
 
 /* @import url("https://cdn.jsdelivr.net/npm/jellyskin@latest/dist/main.css"); */
 
